@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.92f5ed43.css",
-    "main.js": "/react-gh-pages/static/js/main.badd5da4.js",
-    "static/js/453.0b01d71b.chunk.js": "/react-gh-pages/static/js/453.0b01d71b.chunk.js",
-    "static/media/count.wav": "/react-gh-pages/static/media/count.f89c5fa1380233c226e7.wav",
-    "static/media/yoga_pose.png": "/react-gh-pages/static/media/yoga_pose.822bc3136b445bde25c7.png",
-    "static/media/tree.jpg": "/react-gh-pages/static/media/tree.04893f79edff7930610f.jpg",
-    "static/media/shoulderstand.jpg": "/react-gh-pages/static/media/shoulderstand.784f28f46d8e361149eb.jpg",
-    "static/media/traingle.jpg": "/react-gh-pages/static/media/traingle.e09c1851d19b5d07cbd2.jpg",
-    "static/media/warrior.jpg": "/react-gh-pages/static/media/warrior.ad323405cbcf62e55010.jpg",
-    "static/media/cobra.jpg": "/react-gh-pages/static/media/cobra.fcbccbd9e4833712eb62.jpg",
-    "static/media/dog.jpg": "/react-gh-pages/static/media/dog.551aeeb36d512e6eabdf.jpg",
-    "static/media/chair.jpg": "/react-gh-pages/static/media/chair.f10c11b942ffb788fc0d.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.92f5ed43.css.map": "/react-gh-pages/static/css/main.92f5ed43.css.map",
-    "main.badd5da4.js.map": "/react-gh-pages/static/js/main.badd5da4.js.map",
-    "453.0b01d71b.chunk.js.map": "/react-gh-pages/static/js/453.0b01d71b.chunk.js.map"
+    "main.css": "/tenkaiyoga/static/css/main.e645f700.css",
+    "main.js": "/tenkaiyoga/static/js/main.b0438288.js",
+    "static/js/453.0b01d71b.chunk.js": "/tenkaiyoga/static/js/453.0b01d71b.chunk.js",
+    "static/media/count.wav": "/tenkaiyoga/static/media/count.f89c5fa1380233c226e7.wav",
+    "static/media/yoga_pose.png": "/tenkaiyoga/static/media/yoga_pose.822bc3136b445bde25c7.png",
+    "static/media/tree.jpg": "/tenkaiyoga/static/media/tree.04893f79edff7930610f.jpg",
+    "static/media/shoulderstand.jpg": "/tenkaiyoga/static/media/shoulderstand.784f28f46d8e361149eb.jpg",
+    "static/media/traingle.jpg": "/tenkaiyoga/static/media/traingle.e09c1851d19b5d07cbd2.jpg",
+    "static/media/warrior.jpg": "/tenkaiyoga/static/media/warrior.ad323405cbcf62e55010.jpg",
+    "static/media/cobra.jpg": "/tenkaiyoga/static/media/cobra.fcbccbd9e4833712eb62.jpg",
+    "static/media/dog.jpg": "/tenkaiyoga/static/media/dog.551aeeb36d512e6eabdf.jpg",
+    "static/media/chair.jpg": "/tenkaiyoga/static/media/chair.f10c11b942ffb788fc0d.jpg",
+    "index.html": "/tenkaiyoga/index.html",
+    "main.e645f700.css.map": "/tenkaiyoga/static/css/main.e645f700.css.map",
+    "main.b0438288.js.map": "/tenkaiyoga/static/js/main.b0438288.js.map",
+    "453.0b01d71b.chunk.js.map": "/tenkaiyoga/static/js/453.0b01d71b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92f5ed43.css",
-    "static/js/main.badd5da4.js"
+    "static/css/main.e645f700.css",
+    "static/js/main.b0438288.js"
   ]
 }
